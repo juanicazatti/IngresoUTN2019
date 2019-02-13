@@ -1,4 +1,5 @@
 function Mostrar()
+edad = parseInt
 {
 //tomo la edad  
 
